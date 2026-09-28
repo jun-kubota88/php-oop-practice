@@ -13,5 +13,5 @@ COACHTECH 教材 Tutorial 7-3「オブジェクト指向 ハンズオン演習�
 - （**クラスを定義してオブジェクトを生成する基本的な書き方**）
 
 ## 動作確認
-（**(http://localhost:8000/7-3-4_hands-on/practice/user.php)にアクセスし、正常に動作することを確認しました。**）
+（**(ローカルホストにアクセスし、Web画面にて表示されることを確認しました。**）
 <img width="1030" height="896" alt="image" src="https://github.com/user-attachments/assets/5fd07b36-4341-4774-a347-e239989db25b" />
